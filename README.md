@@ -9,7 +9,7 @@ App Webpage: [Exercise Tracker REST API](https://fcc-exercisetracker-restapi.gli
 
 Glitch Project: [Exercise Tracker REST API Glitch Project](https://glitch.com/~fcc-exercisetracker-restapi)
  
-Completed API and Microservices Certification: [Certificate](https://www.freecodecamp.org/certification/carlitos/data-visualization "FreeCodeCamp.Com").
+Completed API and Microservices Certification: [Certificate](https://www.freecodecamp.org/certification/carlitos/apis-and-microservices "FreeCodeCamp.Com").
 
 ## Technologies Used:
 > * HTML, JavaScript, CSS, Node.js, Express.js, MongoDB and Mongoose.   
