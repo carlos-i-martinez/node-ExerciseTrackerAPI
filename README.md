@@ -11,6 +11,8 @@ Glitch Project: [Exercise Tracker REST API Glitch Project](https://glitch.com/~f
  
 Completed API and Microservices Certification: [Certificate](https://www.freecodecamp.org/certification/carlitos/apis-and-microservices "FreeCodeCamp.Com").
 
+FreeCodeCamp Public Profile: [Carlos Martinez FreeCodeCamp](https://www.freecodecamp.org/carlitos)
+
 ## Technologies Used:
 > * HTML, JavaScript, CSS, Node.js, Express.js, MongoDB and Mongoose.   
 
